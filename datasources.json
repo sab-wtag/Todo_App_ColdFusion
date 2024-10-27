@@ -1,0 +1,10 @@
+{
+    "mariadbDNS": {
+        "type": "mysql",
+        "database": "todo_app",
+        "host": "localhost",
+        "port": "3306",
+        "username": "ahbab",
+        "password": "password@123"
+    }
+}
